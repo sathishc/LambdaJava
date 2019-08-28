@@ -1,0 +1,1 @@
+aws lambda invoke --function-name 'ecomJavaFunction' --payload 123 response.json
